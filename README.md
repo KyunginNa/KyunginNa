@@ -7,8 +7,6 @@
 - 📫 How to reach me: Send me a message on [LinkedIn](https://www.linkedin.com/in/kyungin/)
 - ⚡ Fun fact: I'm addicted to checking [Hemnet](https://www.hemnet.se/) these days
 
-<br />
-
 ### Languages
 <a href="https://www.ruby-lang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" align="left" alt="git" height='32px'/> </a>
 <a href="https://rubyonrails.org/" target="_blank"> <img src="https://rubyonrails.org/images/rails-logo.svg" align="left" alt="git" height='32px'/> </a>
@@ -18,9 +16,8 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="left" alt="git" height='32px'/> </a>
 
 <br />
-<br />
 
 ### 📊 Github Activities
-[![Kyungin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyunginNa&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Kyungin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyunginNa&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyunginNa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
