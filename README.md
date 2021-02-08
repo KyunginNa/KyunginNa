@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **[slowfood](https://github.com/KyunginNa/slowfood_client_team2_october2020)**
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about anything. I'll be happy to answer!:)
-- 📫 How to reach me: Send me a message on [LinkedIn](https://www.linkedin.com/in/kyungin/)
+- 📫 Send me a message on [LinkedIn](https://www.linkedin.com/in/kyungin/)
 - ⚡ Fun fact: I'm addicted to checking [Hemnet](https://www.hemnet.se/) these days
 
 ### Languages and Tools
@@ -19,4 +19,5 @@
 <br />
 
 ### 📊 Github Activities
-[![Kyungin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyunginNa&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyunginNa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Kyungin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyunginNa&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyunginNa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
