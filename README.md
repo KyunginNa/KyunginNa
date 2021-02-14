@@ -2,7 +2,7 @@
 
 ### 🙋‍♀️About Me
 - 🔭 I’m currently working on **[my portfolio](https://github.com/KyunginNa/my_portfolio)**
-- 🌱 I’m currently learning SAAS
+- 🌱 I’m currently learning Sass
 - 💬 Ask me about anything. I'll be happy to answer!:)
 - 📫 Send me a message on [LinkedIn](https://www.linkedin.com/in/kyungin/)
 - ⚡ Fun fact: I'm addicted to checking [Hemnet](https://www.hemnet.se/) these days
