@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🙋‍♀️About Me
-- 🔭 I’m currently working on **[slowfood](https://github.com/KyunginNa/slowfood_client_team2_october2020)**
+- 🔭 I’m currently working on **[portfolio](https://github.com/KyunginNa/my_portfolio)**
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about anything. I'll be happy to answer!:)
 - 📫 Send me a message on [LinkedIn](https://www.linkedin.com/in/kyungin/)
