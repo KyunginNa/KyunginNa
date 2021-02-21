@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-### 🙋‍♀️About Me
+### 🤓About Me
 - 🔭 I’m currently working on **[Super Rentals](https://github.com/KyunginNa/super_rentals)**
 - 🌱 I’m currently learning Ember.js🐹
 - 💬 Ask me about anything. I'll be happy to answer!:)
-- Check out my [personal website](https://kyungin-portfolio.netlify.app/)
+- 🙋‍♀️Check out my [personal website](https://kyungin-portfolio.netlify.app/)
 - 📫 Send me a message on [LinkedIn](https://www.linkedin.com/in/kyungin/)
 - ⚡ Fun fact: I'm addicted to checking [Hemnet](https://www.hemnet.se/) these days
 
