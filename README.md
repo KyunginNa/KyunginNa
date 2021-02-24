@@ -4,9 +4,9 @@
 - 🔭 I’m currently working on **[My portfolio](https://github.com/KyunginNa/my_portfolio)**
 - 🌱 I’m currently learning **Node.js**
 - 💬 Ask me about anything. I'll be happy to answer!:)
-- 🙋‍♀️Check out my [personal website](https://kyungin-portfolio.netlify.app/)
-- 📫 Send me a message on [LinkedIn](https://www.linkedin.com/in/kyungin/)
-- ⚡ Fun fact: I'm addicted to checking [Hemnet](https://www.hemnet.se/) these days
+- 🙋‍♀️Check out my **[personal website](https://kyungin-portfolio.netlify.app/)**
+- 📫 Send me a message on **[LinkedIn](https://www.linkedin.com/in/kyungin/)**
+- ⚡ Fun fact: I'm addicted to checking **[Hemnet](https://www.hemnet.se/)** these days
 
 ### 📝Languages and Tools
 <a href="https://www.ruby-lang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" align="left" alt="git" height='32px'/> </a>
