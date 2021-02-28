@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ### 🤓About Me
-- 🔭 I’m currently working on **[My portfolio](https://github.com/KyunginNa/my_portfolio)**
-- 🌱 I’m currently learning **Node.js**
+<!-- - 🔭 I’m currently working on **[My portfolio](https://github.com/KyunginNa/my_portfolio)** -->
+- 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about anything. I'll be happy to answer!:)
 - 🙋‍♀️Check out my **[personal website](https://kyungin-portfolio.netlify.app/)**
 - 📫 Send me a message on **[LinkedIn](https://www.linkedin.com/in/kyungin/)**
