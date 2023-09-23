@@ -11,8 +11,7 @@
 
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> </a>
 
-<a href="https://jestjs.io/https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" target="_blank"><img align="left" alt="RSpec" height="32px" src=""> </a>
-<a href="https://jestjs.io/" target="_blank"><img align="left" alt="RSpec" height="32px" src=""> </a>
+<a href="https://jestjs.io/" target="_blank"><img align="left" alt="RSpec" height="32px" src="https://jestjs.io/https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png"> </a>
 
 <a href="https://git-scm.com/" target="_blank"><img align="left" alt="git" height='32px' src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> </a>  
 <br />
