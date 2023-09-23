@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🤓About Me
-- 🌱 Frontend developer
+- 🌱 Frontend developer: React, Typescript
 - 📫 Send me a message on **[LinkedIn](https://www.linkedin.com/in/kyungin/)**
 
 ### 📝Languages and Tools
