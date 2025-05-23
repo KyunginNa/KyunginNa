@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🤓About Me
-- 🌱 Frontend developer: React, Typescript, CSS, and currently learning Angular
+- 🌱 Frontend developer: React, Typescript, CSS
 - 📫 Send me a message on **[LinkedIn](https://www.linkedin.com/in/kyungin/)**
 
 ### 📝Languages and Tools
